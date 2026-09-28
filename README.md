@@ -3,6 +3,12 @@ My solutions to programming exercises from a Master's-level Python course in Bio
 
 The assignments progress from Python fundamentals and sequence manipulation to genomic data analysis, databases, APIs, and computational biology.
 
+## Repository structure
+
+    Python_Bioinformatics_Coursework/
+    ├── Assignments/       # Python solutions for individual coursework assignments
+    ├── modules/           # Reusable Python modules developed for the assignments
+    └── README.md          # Assignment overview, repository information and notes
 
 ## Assignment overview table
 
